@@ -8,7 +8,7 @@ Dallo sviluppo software classico alla logica dei qubit. Sto esplorando come inte
 
 - 🔭 **Attualmente:** Immerso nello studio dell'Algebra Lineare per il Quantum Computing tramite il percorso **IBM Learning**.
 - 🧠 **Focus:** Stati di Bell, ortonormalità e basi computazionali.
-- 🚀 **Progetto in evidenza:** [Spinning through qubits](https://github.com/lucagaetanonisi/spinning_through_qubits) — Il mio diario di bordo tra algebra e Qiskit.
+- 🚀 **Progetto in evidenza:** [Spinning through qubits](https://github.com/lucagaetanonisi/spinning-through-qubits) — Il mio diario di bordo tra algebra e Qiskit.
 
 ---
 
