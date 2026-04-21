@@ -12,7 +12,7 @@ Dallo sviluppo software classico alla logica dei qubit. Sto esplorando come inte
 
 ---
 
-*"Esploro come integrare la logica quantistica in architetture software classiche."*
+*Esploro come integrare la logica quantistica in architetture software classiche.*
 
 📫 Come contattarmi:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-gaetano-nisi-b91973ab/)
